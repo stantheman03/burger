@@ -1,0 +1,24 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stantheman03/burger.git"
+  },
+  "author": "Stanley Philip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stantheman03/burger/issues"
+  },
+  "homepage": "https://github.com/stantheman03/burger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
